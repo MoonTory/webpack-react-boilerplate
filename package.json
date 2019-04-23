@@ -1,0 +1,11 @@
+{
+  "name": "webpack-react-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MoonTory/webpack-react-boilerplate.git",
+  "author": "Gustavo Quinta | MoonTory <gustavoqnt40@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": ""
+  }
+}
