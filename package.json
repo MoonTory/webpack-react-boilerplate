@@ -6,7 +6,9 @@
   "author": "Gustavo Quinta | MoonTory <gustavoqnt40@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": ""
+    "start:dev": "webpack-dev-server --mode development",
+    "build:dev": "webpack --mode development --progress",
+    "build:prod": "webpack --mode production --progress"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
